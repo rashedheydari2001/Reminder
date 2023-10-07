@@ -1,0 +1,12 @@
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/reminder
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/rashed/IdeaProjects/reminder/build/linux/x64/debug/bundle/data/flutter_assets/version.json

@@ -1,0 +1,4 @@
+#Sat Oct 07 02:25:49 IRST 2023
+base.0=/home/rashed/IdeaProjects/reminder/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
